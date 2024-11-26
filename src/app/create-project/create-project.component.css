@@ -1,0 +1,53 @@
+.daoSetupInput {
+
+    margin-top: 15px;
+}
+
+.daoSetupbtn {
+    font-size: 1em;
+    font-weight: bold;
+    background-color: rgb(196, 193, 193) !important;
+    color: black;
+    border: none;
+    height: 5vh;
+}
+
+.daoSetupbtn:hover{
+    background-color: rgb(213, 211, 211) !important;
+
+}
+.logo {
+    justify-content: right;
+    display: flex;
+}
+
+.content {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: -3vh;
+    padding-left: 20px !important;
+    padding-bottom: 10px;
+}
+
+.header {
+    padding-right: 20px !important;
+}
+
+.container {
+    width: 30% !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.inputgroup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.daobtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
